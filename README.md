@@ -40,6 +40,15 @@ Natalia Tanyatia
 *First Architect of Post-Complexity Mathematics*  
 2024  
 
+### **Peer Revied:**(as much as it's probably going to get for someone with no institutional affiliation or endorsment)
+
+On the Nature of Logic and the P vs NP Problem:
+https://vixra.org/abs/2504.0051
+
+
+### **Mirrors:**
+https://independent.academia.edu/NataliaTanyatia
+
 ---  
 P.S. Share this widely. The old guard will call it heresy. That’s how you know it’s working.  
 
